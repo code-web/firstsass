@@ -6,7 +6,6 @@ with node js preinstalled in it.
 so in node command line just type and install bower globally
 <br/>
 <strong>$ npm install -g bower</strong>
-
 <img src="https://bower.io/img/bower-logo.png" alt="bower-icon" height="200px" width="200px"/>
 <br/>
 https://www.npmjs.com/package/bower
