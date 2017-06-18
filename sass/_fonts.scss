@@ -1,0 +1,52 @@
+@font-face {
+	font-family: 'Titillium';
+	src: url('../fontsTitillium-SemiboldItalic.eot');
+	src: local('../fonts/Titillium Semibold Italic'), local('Titillium-SemiboldItalic'),
+		url('../fonts/Titillium-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Titillium-SemiboldItalic.woff') format('woff'),
+		url('../fonts/Titillium-SemiboldItalic.ttf') format('truetype');
+	font-weight: 600;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Titillium';
+	src: url('../fonts/Titillium-Semibold.eot');
+	src: local('../fonts/Titillium Semibold'), local('Titillium-Semibold'),
+		url('../fonts/Titillium-Semibold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Titillium-Semibold.woff') format('woff'),
+		url('../fonts/Titillium-Semibold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'JosefinSlab-Bold';
+	src: url('../fonts/JosefinSlab-Bold.eot');
+	src: url('../fonts/JosefinSlab-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/JosefinSlab-Bold.woff') format('woff'),
+		url('../fontsJosefinSlab-Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SourceSansPro-Bold';
+	src: url('../fonts/SourceSansPro-Bold.eot');
+	src: url('../fonts/SourceSansPro-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/SourceSansPro-Bold.woff') format('woff'),
+		url('../fonts/SourceSansPro-Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SourceSansPro-Regular';
+	src: url('../fonts/SourceSansPro-Regular.eot');
+	src: url('../fonts/SourceSansPro-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/SourceSansPro-Regular.woff') format('woff'),
+		url('../fonts/SourceSansPro-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
