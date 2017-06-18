@@ -12,13 +12,13 @@ https://www.npmjs.com/package/bower
 and i have couple bower packages for this template so following are with 
 the links
 
-1. bootstrap-sass (jQuery will install with this package as a dependencies)
+1. bootstrap-sass (jQuery will install with this package as a dependencies) <br/>
 $ bower install bootstrap-sass --save
 
 
-2. fontawesome (sass version)
+2. fontawesome (sass version) <br/>
 $ bower install fontawesome --save
 
 
-3. owl-carousel (sass version)
+3. owl-carousel (sass version) <br/>
 $ bower install  owl.carousel --save
